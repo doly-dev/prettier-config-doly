@@ -1,0 +1,34 @@
+{
+  "name": "prettier-config-doly",
+  "version": "0.0.1-alpha.0",
+  "description": "A Prettier shareable config for doly",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keyword": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "eslintplugin",
+    "eslint-plugin",
+    "JavaScript Standard Style",
+    "jsstandard",
+    "lint",
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "standard",
+    "standard style"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doly-dev/prettier-config-doly.git"
+  },
+  "author": "Neo_huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doly-dev/prettier-config-doly/issues"
+  },
+  "homepage": "https://github.com/doly-dev/prettier-config-doly#readme"
+}
